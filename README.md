@@ -15,3 +15,5 @@ This repository contains the hardware and software components developed by our t
 
 ## Getting started
 To get started with building your own Smart Door system, please refer to the documentation in the repository.
+
+![image](https://github.com/Josh-techie/Smart_Door/assets/95583855/9e030c47-49cd-4267-b267-b5b73d643b46)
