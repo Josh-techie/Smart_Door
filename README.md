@@ -28,7 +28,7 @@ Smart Door project is licensed under the MIT License.
 
 # Related Projects
 ---
-Explore some of our other projects:
+Explore some of my other projects:
 
 - [Game-Finder](https://github.com/soufiane-oumalek/find_your_game): A simple web app made with Flask, Python, HTML/CSS, and JavaScript to provide a personalized gaming experience, simplifying the process of discovering new games for users.
 - [E-commerce Store](https://github.com/Josh-techie/ecomm): A web application made with PHP native, SQL, JS and HTML/CSS, all native technologies made from scratch.
