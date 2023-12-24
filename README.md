@@ -18,7 +18,7 @@ This repository contains the hardware and software components developed by our t
 
 ## Getting started
 ---
-To get started with building your own Smart Door system, please refer to this report [Smart-Door](https://drive.google.com/drive/folders/1MKN39bfqW3K3Qk-hdvGKEYFSpYBxwTXW) uploaded to the drive, it's only available in French.
+To embark on building your own Smart Door system, kindly refer to the [Smart-Door report](https://drive.google.com/drive/folders/1MKN39bfqW3K3Qk-hdvGKEYFSpYBxwTXW) uploaded to the drive. It contains all the necessary information for the project but it's available exclusively in French.
 
 ![image](https://github.com/Josh-techie/Smart_Door/assets/95583855/9e030c47-49cd-4267-b267-b5b73d643b46)
 
