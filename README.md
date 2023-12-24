@@ -26,7 +26,7 @@ To embark on building your own Smart Door system, kindly refer to the [Smart-Doo
 ---
 Smart Door project is licensed under the MIT License.
 
-# Related Projects
+# Explore Other Projects
 ---
 Explore some of my other projects:
 
